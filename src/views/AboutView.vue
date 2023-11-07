@@ -1,3 +1,4 @@
+<!-- 一个template文件， -->
 <template>
   <div class="about">
     <h1>This is an about page</h1>
